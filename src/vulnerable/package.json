@@ -1,0 +1,10 @@
+{
+  "name": "streamvibe-api-vulnerable",
+  "version": "1.0.0",
+  "description": "API Insegura para auditoría - MediaStream",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
